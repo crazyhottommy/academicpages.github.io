@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Data speak and DNA confess"
+title                    : "Data speak and DNA confesses"
 title_separator          : "-"
 name                     : &name "Ming Tang"
 description              : &description "Computational biologist in MD Anderson Cancer Center"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Ming Tang"
-  avatar           : "profile.png"
+  avatar           : "mingtang.png"
   bio              : "Computational biologist in MD Anderson"
   location         : "Houston, TX"
   employer         : 
