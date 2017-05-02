@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @tangming2005
+  username               : &twitter "tangming2005"
 facebook:
   username               : 
   app_id                 :
