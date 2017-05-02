@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Data speak and DNA confess"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ming Tang"
+description              : &description "Computational biologist in MD Anderson Cancer Center"
+url                      : https://crazyhottommy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/crazyhottommy/crazyhottommy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : &twitter @tangming2005
 facebook:
   username               : 
   app_id                 :
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Ming Tang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computational biologist in MD Anderson"
+  location         : "Houston, TX"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6uF4Sa8AAAAJ&hl=en"
   email            : 
   uri              : 
   bitbucket        :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "crazyhottommy"
   google_plus      :
   keybase          :
   instagram        : 
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@tangming2005"
   vine             :
   weibo            :
   xing             :
