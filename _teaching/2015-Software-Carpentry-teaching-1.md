@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "University of Miami 2-day Software Carpentry workshop"
 collection: teaching
 type: "Software Carpentry workshop"
 permalink: /teaching/015-Software-Carpentry-teaching-1
