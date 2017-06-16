@@ -178,8 +178,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   training:
-	output: true
-	permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
