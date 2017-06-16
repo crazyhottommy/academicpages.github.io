@@ -26,12 +26,13 @@ Tissue culture
 
 Gel-shift
 =====
-my second experience with p32 labeled experiment, the first was northern blot!
+my second experience with p32 labeled experiment, the first was northern blot!  
 ![](../images/gel-shift.jpg)
 
 RT-qPCR 
 ====
-hundreds of RT-qPCR plates.
+hundreds of RT-qPCR plates.  
+
 ![](../images/RT-qPCR.jpg)
 
 Pipetting
