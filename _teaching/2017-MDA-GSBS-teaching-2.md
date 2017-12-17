@@ -22,6 +22,6 @@ Enjoyed the teaching a lot!
 
 Teaching in action!
 =====
-![](../images/teaching3.jpeg)
+![](../images/teaching3.jpg)
 
 
